@@ -15,7 +15,9 @@ El código es claro y está bien estructurado, y el uso de curve_fit facilita el
 git clone https://github.com/cesarvargasL/practico1-SIS402.git 
 ```
 
-<p>2. Instalar librerias</p>
+<p>2. Instalar <strong>python 3.12</strong> en caso de no contar con ello desde <strong>https://www.python.org/downloads/</strong></p>
+
+<p>3. Instalar librerias</p>
 
 ```
 pip install matplotlib
@@ -24,7 +26,7 @@ pip install matplotlib
 pip install scipy
 ```
 
-<p>3. Ejecutar</p>
+<p>4. Ejecutar</p>
 
 ```
 python practico01.py
@@ -32,11 +34,13 @@ python practico01.py
 
 
 
-<h2>💻 Hecho con</h2>
+<h2>💻 Hecho con:</h2>
 
 Tecnoloias y lenguajes usados en el proyecto:
 
 * Python 3.12
+* matplotlib
+* scipy
 
 
 <h2>🛡️ Desarrolado:</h2>
